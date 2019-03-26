@@ -1,1 +1,5 @@
-# AgileJapan2018SapporoMob
+# Agile Japan 2018 札幌サテライト モブプログラミング
+
+## チームC#
+
+自動販売機を作る！！
